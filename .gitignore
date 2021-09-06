@@ -11,6 +11,9 @@
 # production
 /build
 
+# assets - not needed because we're streaming from source
+/src/assets
+
 # misc
 .DS_Store
 .env.local
